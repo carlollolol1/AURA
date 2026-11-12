@@ -1,2 +1,2 @@
 # AURA
-abbiamo aura
+aura
