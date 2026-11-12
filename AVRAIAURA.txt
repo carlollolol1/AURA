@@ -1,3 +1,6 @@
 Hai avuto aura
 Risposta: SI
+<<<<<<< HEAD
 
+=======
+>>>>>>> bebdba8980af3dc40b7cc9a09aae01e53dfa9665
